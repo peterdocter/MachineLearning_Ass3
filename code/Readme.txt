@@ -1,0 +1,3 @@
+dataProcess.py是主要负责数据处理的
+svm.py是实现了三种svm核的优化
+ensemble.py是实现了多种svm核的一个集成学习
